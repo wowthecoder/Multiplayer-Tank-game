@@ -1,6 +1,6 @@
 # Multiplayer Tank game
 A multiplayer tank shooter game made with Unity. \
-Link to play online: https://simmer.io/@LooJH/multiplayer-tank-game \
+Link to play online: https://simmer.io/@LooJH/multiplayer-tank-game 
 
 ## Instructions: 
 - Player 1 is 🔴 red tank, Player 2 is 🔵 blue tank
