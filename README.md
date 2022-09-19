@@ -8,4 +8,5 @@ Link to play online: https://simmer.io/@LooJH/multiplayer-tank-game \
 - Use **Arrow** keys to control the 🔵 blue tank, *ENTER/RETURN* key to shoot (The longer you press *ENTER*, the further it will shoot)
 
 ## Screenshots:
+![Screenshot3](https://user-images.githubusercontent.com/82577844/191025683-611f23b9-1db7-4276-b85b-0e50a16d424d.png)
 
