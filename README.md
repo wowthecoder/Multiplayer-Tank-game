@@ -1,4 +1,4 @@
-# Multiplayer-Tank-game
+# Multiplayer Tank game
 A multiplayer tank shooter game made with Unity. \
 Link to play online: https://simmer.io/@LooJH/multiplayer-tank-game \
 
